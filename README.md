@@ -1,6 +1,6 @@
 # UC_PAD_cuadernos_Jupyter
 
-Este repositorio reúne el trabajo práctico desarrollado durante la asignatura **Programación para Analítica de Datos** , como evidencia del aprendizaje en la materia.
+Este repositorio reúne el trabajo práctico desarrollado durante la asignatura **Programación para Analítica de Datos**, como evidencia del aprendizaje adquirido en la materia y como **entregable de la Actividad 4**.
 
 ## 📚 Contenido
 
