@@ -52,7 +52,3 @@ Caso práctico de aplicación de las herramientas de programación y análisis d
 * Pandas
 * Matplotlib
 * Seaborn
-
-
-MIT
-
